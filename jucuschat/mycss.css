@@ -1,0 +1,43 @@
+*{
+	padding:0; 
+	margin:0; 
+	border:0;
+}
+
+#container {
+	width:40%;
+	background:white; 
+	margin: 0 auto;
+	padding:20px;
+
+}
+#chat_box {
+	width:90%; 
+	height:200px;
+}
+#chat_data {
+	width:100%; 
+	padding:5px; 
+	margin-bottom:5px;
+	border-bottom:2px solid mediumvioletred;
+	font-weight:bold;
+}
+input[type='text']{
+	width:60%;
+	height:30px;
+	border:2px solid mediumvioletred;
+	border-radius:5px;
+
+}
+input[type='submit']{
+	width:30%;
+	height:30px;
+	border:2px solid mediumvioletred;
+	border-radius:5px;
+}
+textarea{
+	width:60%;
+	height:35px;
+	border:2px solid mediumvioletred;
+	border-radius:5px;
+}

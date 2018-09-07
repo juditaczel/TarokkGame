@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#434F5B;
+}
+
+.signin {
+    max-width: 500px;
+    padding: 5px 5px 5px;
+    margin: 0 auto;
+    background-color: #DAA520;
+
+
+	
+    border: 1px solid #e5e5e5;
+    -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+            border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+       -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+            box-shadow: 0 1px 2px rgba(0,0,0,.05);
+			
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#990000;
+	font-weight:lighter;
+}
+
+.signin .heading{
+    color:#00008B;
+}
+.form-group
+ {
+    font-size: 16px;
+    height: 25px;
+    padding-top: 7px;
+
+}
+
+.abc{
+    width: 400px;
+    height: 30px;
+}
+.signin, .container
+{
+	margin-top:100px;
+
+}
+.navbar-brand{
+	font-family:"Lucida Handwriting";
+}
+#submit{
+	height:45px;
+}
+.h5{
+	font-family:Verdana, Geneva, sans-serif;
+}
+h1{
+	font-family:Verdana, Geneva, sans-serif;
+}
+.alert-info {
+    width: 200px;
+}
